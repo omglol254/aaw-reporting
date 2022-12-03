@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aaw-reporting/static/css/main.370e8c92.css",
+    "main.js": "/aaw-reporting/static/js/main.01a42821.js",
+    "static/js/787.74823632.chunk.js": "/aaw-reporting/static/js/787.74823632.chunk.js",
+    "index.html": "/aaw-reporting/index.html",
+    "main.370e8c92.css.map": "/aaw-reporting/static/css/main.370e8c92.css.map",
+    "main.01a42821.js.map": "/aaw-reporting/static/js/main.01a42821.js.map",
+    "787.74823632.chunk.js.map": "/aaw-reporting/static/js/787.74823632.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.370e8c92.css",
+    "static/js/main.01a42821.js"
+  ]
+}
