@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aaw-reporting/static/css/main.7b02c64b.css",
-    "main.js": "/aaw-reporting/static/js/main.84d40871.js",
+    "main.css": "/aaw-reporting/static/css/main.50c9bb2f.css",
+    "main.js": "/aaw-reporting/static/js/main.91ffcd79.js",
     "static/js/787.74823632.chunk.js": "/aaw-reporting/static/js/787.74823632.chunk.js",
     "index.html": "/aaw-reporting/index.html",
-    "main.7b02c64b.css.map": "/aaw-reporting/static/css/main.7b02c64b.css.map",
-    "main.84d40871.js.map": "/aaw-reporting/static/js/main.84d40871.js.map",
+    "main.50c9bb2f.css.map": "/aaw-reporting/static/css/main.50c9bb2f.css.map",
+    "main.91ffcd79.js.map": "/aaw-reporting/static/js/main.91ffcd79.js.map",
     "787.74823632.chunk.js.map": "/aaw-reporting/static/js/787.74823632.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b02c64b.css",
-    "static/js/main.84d40871.js"
+    "static/css/main.50c9bb2f.css",
+    "static/js/main.91ffcd79.js"
   ]
 }
